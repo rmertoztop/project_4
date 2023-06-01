@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to develop a music recommendation system using machine learning techniques with Spotify datasets. The goal is to provide accurate and personalized song recommendations based on user preferences by leveraging the power of machine learning algorithms and Spotify's vast music catalog.
+This project aims to develop a music recommendation system using machine learning techniques with Spotify datasets. The goal is to provide accurate and personalized song recommendations based on user preferences by leveraging the power of machine learning algorithms and Spotify's vast music catalogue.
 
 ## Data
 
