@@ -38,3 +38,5 @@ The following tools and technologies will be used for this project:
 - SQL
 
 Feel free to explore the code and documentation in this repository to learn more about the implementation and workings of the Spotify Music Recommendation System. If you have any questions or feedback, please don't hesitate to reach out. Enjoy discovering new music tailored to your taste!
+
+
