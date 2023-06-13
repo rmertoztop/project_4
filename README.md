@@ -8,7 +8,7 @@ Develop a basketball player statistics analysis and prediction system using mach
 ### Data
 Utilize NBA datasets from APIs, including the following sources:
 - [2022-2023 NBA Player Stats - Regular](https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular?select=2022-2023+NBA+Player+Stats+-+Regular.csv)
-- [API-NBA from RapidAPI](https://rapidapi.com/api-sports/api/api-nba)
+-[2021-2022 NBA Player Stats - Regular](https://www.kaggle.com/datasets/vivovinco/nba-player-stats)
 
 ### Objectives
 - Predict basketball player stats for the upcoming season based on historical data
