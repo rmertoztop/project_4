@@ -33,7 +33,8 @@ During the course of the project, we encountered several challenges:
 - External Factors: While player statistics provide valuable insights, it's important to note that other factors can influence a player's performance on the court. Factors such as injuries, team dynamics, coaching strategies, and external circumstances were not included in our analysis. Considering these external factors could further enhance the accuracy and predictive power of the model.
 
 ## Outliers
-Outliers are data points that deviate significantly from the majority of the data. In our analysis, we identified outliers and implemented approaches to address them. Outliers can impact the performance of linear regression models, and therefore, we applied techniques such as robust scaling and handling outliers by either removing them or replacing them with more representative values.
+
+To handle these outliers, we implemented a post-processing step where we replaced any negative predicted values with zeros. This approach allowed us to address the outliers and ensure that the predicted statistics remain within a valid range. By zeroing out the negative values, we mitigated the impact of outliers on the model's performance and ensured that the predicted player statistics align with the expectations of NBA player performance.
 
 ## Results
 The prediction system achieved an impressive R-squared value of 0.0.9998, indicating a high level of accuracy in predicting player statistics based on the historical data.
