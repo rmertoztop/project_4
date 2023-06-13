@@ -4,7 +4,7 @@
 Basketball is a popular team sport played on a rectangular court between two teams, each consisting of five players. The objective of the game is to score points by shooting a ball through the opponent's hoop while preventing the opposing team from scoring.
 
 ## Project overview
-Our goal in this project was to attempt to predict the points for basketball player for the upcoming season using machine learning techniques. The system utilizes historical NBA player data that includes various features to provide insights into player performance and predict the player points for the upcoming season. These features include factors such as points, assists, rebounds, shooting percentages, and more relevant statistics. A dashboard was built to display the results using Tableau.
+Our goal in this project was to attempt to predict the points for basketball player for the upcoming season using machine learning techniques. The system utilizes historical NBA player data that includes various features to provide insights into player performance and predict the player points for the upcoming season. These features include factors such as points, assists, rebounds, shooting percentages, and more relevant statistics. A dashboard was built to display the results using Tableau. Click <a href="https://public.tableau.com/app/profile/sri.hari.priya.maringanti/viz/Project4NBAPlayerpointspredictionLeaderboard/PlayerStatsPrediction#1">here</a> to view dashboard.
 
 ## Objectives
 - Leverage player stats from the previous year to forecast player performance.
