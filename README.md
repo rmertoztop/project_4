@@ -50,7 +50,7 @@ The main dashboard (Fig 3.) incorporated several features, including a player dr
 
 Fig 3. Dashboard showing selected player's predicted point for the upcoming season and other relevant pervious stats.
 
-<img width="458" alt="image" src="https://github.com/Jayplect/credit-risk-classification/assets/107348074/075181c7-0604-4bc9-add1-df29c2d5762f">
+<img width="500" alt="image" src="https://github.com/Jayplect/credit-risk-classification/assets/107348074/075181c7-0604-4bc9-add1-df29c2d5762f">
 
 - Leader board
 
@@ -58,7 +58,7 @@ The second tab- the leaderboard (Fig 4.), showed ranking for players based on av
 
 Fig 4. Leaderboard shwoing Rankings
 
-<img width="460" alt="image" src="https://github.com/Jayplect/credit-risk-classification/assets/107348074/910e2054-0bc8-43e0-af8b-2df9a75a8d3f">
+<img width="500" alt="image" src="https://github.com/Jayplect/credit-risk-classification/assets/107348074/910e2054-0bc8-43e0-af8b-2df9a75a8d3f">
 
 - Player Comparison
 
@@ -66,7 +66,7 @@ We also include a third tab to show player comparison based on selected position
 
 Fig 5. Player comparison based on selected position.
 
-<img width="454" alt="image" src="https://github.com/Jayplect/credit-risk-classification/assets/107348074/3ed87912-c145-4e27-9a9c-d5a67a9bec83">
+<img width="500" alt="image" src="https://github.com/Jayplect/credit-risk-classification/assets/107348074/3ed87912-c145-4e27-9a9c-d5a67a9bec83">
 
 ## Challenges Faced
 During the course of the project, we encountered several challenges:
