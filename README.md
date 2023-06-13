@@ -25,7 +25,7 @@ For the player headshot, we utilized a technique called web scraping to gather i
 Our second step involved identifying null values in a dataset and implementing strategies to handle them. This typically includes dropping rows or columns with null values. The goal is to ensure that the dataset is free from null values, enabling accurate and reliable data analysis and modeling.
 
 ### Exploratory Data Analysis: 
-In order to gain some insights on the dataset patterns we created a visualization to show the distribution of points per team (Fig 1.) and a scatter plot to show the minutes played per points (Fig 2.) for the entire 2022/2023 season. 
+To gain some insights on the dataset patterns we created a visualization to show the distribution of points per team (Fig 1.) and a scatter plot to show the minutes played per points (Fig 2.) for the entire 2022/2023 season. 
 
 - Fig 1. Bar plot of Average Points per Team for 2022/2023 Season
 
@@ -36,7 +36,7 @@ In order to gain some insights on the dataset patterns we created a visualizatio
 ![image](https://github.com/Jayplect/credit-risk-classification/assets/107348074/b43089c2-3c7b-46a9-b7ca-a6245d609af0)
 
 ### Model Training and Evaluation
-We experimented with various regression models such as linear regression, decision tree regression, random forest regression, and lasso model. Each model was trained on a subset of the dataset and evaluated using appropriate evaluation metrics such as mean squared error (MSE) and R-squared value. The purpose of these experiments was to compare the performance of different regression models and identify the most suitable model for our specific task. Accordingly the Linear regression model was our best choice because it showed the least MSE.
+We experimented with various regression models such as linear regression, decision tree regression, random forest regression, and lasso model. Each model was trained on a subset of the dataset and evaluated using appropriate evaluation metrics such as mean squared error (MSE) and R-squared value. The purpose of these experiments was to compare the performance of different regression models and identify the most suitable model for our specific task. Accordingly, the Linear regression model was our best choice because it showed the least MSE.
 
 -  Outlier Handling
 
@@ -46,9 +46,9 @@ To handle these outliers, we implemented a post-processing step where we replace
 
 - Player Stats and Prediction
 
-The main dashboard (Fig 3.) incorporated several features, including a player drop-down menu, general player statistics, and predictions for the upcoming season. The drop-down menu allows users to select a specific player of interest. The general statistics displayed on the ddashboard for the selected player provides an overview of their performance. These statistics include three point percentage, two point percentage, field goal percentage and other relevant metrics. Utilizing the selected player's past performance and the predictive model developed, the dashboard showcased point predictions for the player's performance in the upcoming season.
+The main dashboard (Fig 3.) incorporated several features, including a player drop-down menu, general player statistics, and predictions for the upcoming season. The drop-down menu allows users to select a specific player of interest. The general statistics displayed on the dashboard for the selected player provides an overview of their performance. These statistics include three-point percentage, two-point percentage, field goal percentage and other relevant metrics. Utilizing the selected player's past performance and the predictive model developed, the dashboard showcased point predictions for the player's performance in the upcoming season.
 
-Fig 3. Dashboard showing selected player's predicted point for the upcoming season and other relevant pervious stats
+Fig 3. Dashboard showing selected player's predicted point for the upcoming season and other relevant pervious stats.
 
 <img width="458" alt="image" src="https://github.com/Jayplect/credit-risk-classification/assets/107348074/075181c7-0604-4bc9-add1-df29c2d5762f">
 
@@ -62,9 +62,9 @@ Fig 4. Leaderboard shwoing Rankings
 
 - Player Comparison
 
-We also include a third tab to show player comparison based on selected position. The stats comparison are averages of the two previous season while the age and best ranks are the most recent details.
+We also include a third tab to show player comparison based on selected position. The stats comparison are averages of the two previous seasons while the age and best ranks are the most recent details.
 
-Fig 5. Player comparison based on selected position
+Fig 5. Player comparison based on selected position.
 
 <img width="454" alt="image" src="https://github.com/Jayplect/credit-risk-classification/assets/107348074/3ed87912-c145-4e27-9a9c-d5a67a9bec83">
 
